@@ -8,7 +8,8 @@ I have a deep passion for calculus, analysis, and statistics, which has intrigue
 mathematical background to real-world dataproblems and continue expanding my skills.
 
 Projects:
-Here are my projects from my HARP 150 class
+Here are my projects I completed in my HARP 150 class:
+Game Project: 
 
 
 
