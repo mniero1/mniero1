@@ -9,8 +9,8 @@ mathematical background to real-world dataproblems and continue expanding my ski
 
 Projects:
 ## Here are my projects I completed in my HARP 150 class:
-## * Game Project: 
-## * Data Project:
+* ## Game Project: 
+* ## Data Project:
 
 
 
