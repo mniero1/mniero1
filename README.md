@@ -11,7 +11,7 @@ Projects:
 ### Here are my projects I have completed so far:
 * #### Game Project- Farming Adventure
 * #### Derek Jeter’s Career Statistics Project
-* ####Building Attributes & Energy Performance Study
+* #### Building Attributes & Energy Performance Study
 * #### Voter Registration Trends in 2016 & 2020
 
 
