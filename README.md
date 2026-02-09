@@ -8,8 +8,8 @@ I have a deep passion for calculus, analysis, and statistics, which has intrigue
 mathematical background to real-world dataproblems and continue expanding my skills.
 
 Projects:
-### Here are my projects I have completed so far:
-* #### Game Project- Farming Adventure
+### Here are some of my projects I have completed so far:
+* #### Digital and Data Studies Capstone Project
 * #### Derek Jeter’s Career Statistics Project
 * #### Building Attributes & Energy Performance Study
 * #### Voter Registration Trends in 2016 & 2020
