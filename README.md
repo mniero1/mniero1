@@ -1,9 +1,9 @@
 # Michael Niero
-### Student at Binghamton University
+### Recent Graduate of Binghamton University
 
 ## About me 
 
-I’m currently an undergraduate student at Binghamton University, working toward a Bachelor of Arts in Mathematics and minoring in Digital and Data Studies (DIDA). 
+I recently completed my journey at Binghamton University, obtaining a Bachelor of Arts in Mathematics with skills from my minor in Digital and Data Studies (DIDA). 
 I have a deep passion for calculus, analysis, and statistics, which has intrigued my growing interest in data science and data analytics. I'm eager to apply my 
 mathematical background to real-world dataproblems and continue expanding my skills.
 
@@ -13,6 +13,9 @@ Projects:
 * #### Derek Jeter’s Career Statistics Project
 * #### Building Attributes & Energy Performance Study
 * #### Voter Registration Trends in 2016 & 2020
+
+Currently Working on: 
+* The 2024 Yankees’ World Series Run – Data Analysis Utilizing Python
 
 
 
